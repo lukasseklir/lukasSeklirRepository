@@ -1,0 +1,33 @@
+{
+    "id": "5834d3f8-4025-465e-aba6-c905312a15fe",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "5834d3f8-4025-465e-aba6-c905312a15fe",
+    "children": [
+        "71355da8-f065-4b52-997e-9adbbe4ff72f",
+        "64c15c55-55b9-4c16-aa37-ddf965122b33",
+        "4be305ff-1b90-459e-9511-2a40d1d13920",
+        "b20b947a-53df-4ac8-9d08-932b8bd4c96a",
+        "c1b0a2f7-c343-414c-a5a6-38cd8fa5e666",
+        "8e463900-6c45-4a30-a0da-a62792bd7aac",
+        "009ad20f-37d4-4bb6-98b0-dbba374dcab0",
+        "487e678c-a5e9-447c-8dd8-d7100496fa38",
+        "dd8d9a71-60e2-489c-bfb5-e4cc816c4415",
+        "b9799b6f-acb1-4bd6-addd-7e6811c01e92",
+        "d09501fa-09f8-4d73-9284-69e521993d47",
+        "bf92ea69-74fb-4b44-aad8-3ffab017b825",
+        "d4b66e20-eb12-4747-ae48-0c94f7402143",
+        "870feb6b-2afb-44fc-b079-da36fdf52166",
+        "a39ac9b8-c6c7-4255-8ad7-3262b300e231",
+        "4f070324-7603-46fa-b1e9-01a1610e64a1",
+        "cad08da6-4294-414b-a8b9-2a913c133d9c",
+        "095a0757-49ac-44a7-b452-20555aba3bf9",
+        "98d3d89d-9612-4599-866c-a07bded9f658",
+        "63167ef9-0400-4365-8743-c6c35bd19b9f",
+        "a363300e-7402-46d1-b915-e1d19f0e8873"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "island",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,32 @@
+{
+    "id": "651abf00-d383-46af-a22a-db6198deffbd",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "651abf00-d383-46af-a22a-db6198deffbd",
+    "children": [
+        "a4f1936a-e118-4dbe-9d20-5aba7c323efa",
+        "00f639df-741f-4020-a7df-056c412c18ed",
+        "2b22e18c-a724-44ba-b9a8-8a1bdb36f6a7",
+        "022cf9ca-83a4-4c7b-b7be-e6eb3e347b6b",
+        "29077a49-c20d-4bf8-9985-e0a13da5eff6",
+        "81662e71-0097-4aa9-a46c-bbb0342516c3",
+        "ac04487e-6d48-4ebf-b80c-35a0d0ed5232",
+        "d3f15f8c-8a3f-40d6-aea8-1d54a473fe0c",
+        "78d07ab8-3e33-4218-abd2-94965e2cf87f",
+        "bf4efbc7-8dfd-4f71-b3d4-ab70019c0fdd",
+        "5f90ada4-4b82-4997-909f-f59ba25f8e17",
+        "57c81efc-bab9-46fc-a36b-65445d8719a1",
+        "485e2eb7-a215-458f-8c93-b24d0d850eeb",
+        "c1f61c3b-a1c6-499f-b575-22665af548ba",
+        "625a8109-12ee-4d88-a1fb-bf6d274a085f",
+        "293244ad-d63c-438c-9653-da020176f33c",
+        "4b29b574-d1e5-486a-8689-b96f2aaaab47",
+        "8401660f-b45e-4d3a-b827-38b44e9105d9",
+        "b3a146df-8c0d-4836-880d-b0cde955c75e",
+        "e7267900-7682-485f-b47e-1c3d94601fca"
+    ],
+    "filterType": "GMFont",
+    "folderName": "fonts",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Fonts"
+}
